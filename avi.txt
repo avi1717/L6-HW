@@ -3,6 +3,7 @@ Im from Beer Yakov IL :)
 im X years old
 4444
 5555
+<<<<<<< HEAD
 sssasd
 
 asd
@@ -10,3 +11,6 @@ as
 d
 asd
 `1
+=======
+sss
+>>>>>>> 18c55f0f7fb366bdb63e8dbf517fe58d97b283ad
