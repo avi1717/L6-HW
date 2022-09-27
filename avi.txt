@@ -11,6 +11,4 @@ as
 d
 asd
 `1
-=======
-sss
->>>>>>> 18c55f0f7fb366bdb63e8dbf517fe58d97b283ad
+
